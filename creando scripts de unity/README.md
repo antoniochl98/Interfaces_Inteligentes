@@ -1,5 +1,5 @@
 # Creando scripts
 
-## Script enfuncionamiento
+## Script en funcionamiento
 
 ![script de movimiento](./images/movimiento_cubo.gif)
