@@ -11,12 +11,13 @@ public class Switch : MonoBehaviour
     void Start()
     {
         myLight = GetComponent<Light>();
+        GameController.Switch += TurnONOFF;
     }
 
     // Update is called once per frame
     void Update()
     {
-        GameController.Switch += TurnONOFF;
+        
     }
 
     private void TurnONOFF()
