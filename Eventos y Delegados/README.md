@@ -14,6 +14,6 @@ El objeto de tipo B ejecuta el evento CollisionB de GameController cuando el jug
 
 ## LUZ
 
-La iluminación ejecuta el evento Switch de GameController cuando el usuario presiona la tecla "F" que hace que se encienda y apage la luz
+La iluminación ejecuta el evento Switch de GameController cuando el usuario presiona la tecla "F" que hace que se encienda y apague la luz
 
 ![LUZ](img/Light.gif)
