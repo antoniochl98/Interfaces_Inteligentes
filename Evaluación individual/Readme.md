@@ -14,7 +14,7 @@ También se puede comprobar que cuando aumenta la energía, el objeto de tipo A 
 
 En los atributos públicos del script visibles en la esquina inferior derecha se puede ver como, al disparar al objeto de tipo B, aumenta el dinero del jugador
 
-![disparo_B](./images/disparoB.gif)
+![disparo_B](./images/diparoB.gif)
 
 ### Movimiento de objetos C por empuje de objetos B
 
