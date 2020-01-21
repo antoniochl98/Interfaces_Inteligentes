@@ -20,8 +20,8 @@ public class random_move : MonoBehaviour
         time = Time.time-1;
     }
 
-    // Update is called once per frame
-    void Update()
+    // FixedUpdate is called every time the ohysicas are calculated
+    void FixedUpdate()
     {
         if (Time.time - time >= changing_direction_time) {
             do
